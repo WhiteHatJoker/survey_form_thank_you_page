@@ -1,4 +1,4 @@
-# survey_form_thank_you_page
+# Showing a survey form on a thank you page #
 Insert the survey form to woocommerce thank you/order confirmation page
 ## Installation ##
 1. Create the survey form questions and customizations as you wish using the Formidable Forms plugin.
